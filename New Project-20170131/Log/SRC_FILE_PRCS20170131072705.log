@@ -1,0 +1,9 @@
+01-31-2017 07:27:05 UTC:Variables values for current run>>>>>>>>
+01-31-2017 07:27:05 UTC:TIF File location : /home/cg/root/Tifs
+01-31-2017 07:27:05 UTC:SRC File location : /home/cg/root/Inbound
+01-31-2017 07:27:05 UTC:Directory changed to Inbound source directory
+01-31-2017 07:27:05 UTC:List file created with all the Clean files in the source directory
+01-31-2017 07:27:05 UTC:List file created with all the Risk files in the source directory
+01-31-2017 07:27:05 UTC:For loop to process multiple files started
+01-31-2017 07:27:05 UTC:Clean list file used for processing the multiple source files was removed.
+01-31-2017 07:27:05 UTC:List file created successfully
